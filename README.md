@@ -42,6 +42,9 @@ Splashes+ | [Modrinth](https://modrinth.com/mod/splashes+)
 Feather Trampling | [Modrinth](https://modrinth.com/mod/feather-trampling)
 Ledger | [Modrinth](https://modrinth.com/mod/ledger)
 Iris + Sodium | [Iris' Website](https://irisshaders.net)
+Double Slabs | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+Mr. Crayfish's Furniture Mod | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
+Xaero's Minimap | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 ## Core mods
 Mod | URL
