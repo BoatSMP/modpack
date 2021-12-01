@@ -110,7 +110,6 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
-key_bedrockIfy.key.settings:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -134,7 +133,7 @@ key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
-soundCategory_master:0.50110376
+soundCategory_master:0.15452538
 soundCategory_music:0.0
 soundCategory_record:0.5070422
 soundCategory_weather:0.15962441
