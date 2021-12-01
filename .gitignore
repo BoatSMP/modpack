@@ -2,3 +2,9 @@ logs/
 saves/
 .fabric/
 realms_persistence.json
+backup/
+saves/
+shaderpacks/
+XaeroWaypoints/
+ModTranslations/
+usercache.json
