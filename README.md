@@ -1,5 +1,6 @@
 # BoatSMP Modpack
 Recommended RAM allocation: 8GB
+Linux trash.
 ## Mods
 Mod | URL
 --- | ---
@@ -59,3 +60,4 @@ Mod | URL | Reason
 --- | --- | ---
 Stockpile | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stockpile) | Outdated
 Immersive Portals | [GitHub](https://github.com/qouteall/ImmersivePortalsMod/releases) | Unstable
+CC: Restiched | [GitHub](https://github.com/cc-tweaked/cc-restitched) | Outdated

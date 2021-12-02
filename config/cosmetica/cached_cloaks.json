@@ -873,5 +873,40 @@
     "name": "snozberriezz",
     "uuid": "e2477273-0601-4d9e-9ea5-9f28316dca1e",
     "cloak": "trans"
+  },
+  {
+    "name": "Greief",
+    "uuid": "af723c4d-351b-48f4-ac85-12d52f38120d",
+    "cloak": "golden"
+  },
+  {
+    "name": "TeuflischerPole",
+    "uuid": "1e9b8b55-619c-4dc2-bf1a-97ca62ca277a",
+    "cloak": "void"
+  },
+  {
+    "name": "L1ttleCub",
+    "uuid": "727b3447-1653-4a02-ac45-f8a4ccf8566f",
+    "cloak": "bi"
+  },
+  {
+    "name": "DarkCxbe",
+    "uuid": "e10f9cf8-34e2-4962-9c25-fa7602f2ca98",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "WanderingTraders",
+    "uuid": "984327e7-1d24-48f8-abd9-7730147b3de1",
+    "cloak": "bi"
+  },
+  {
+    "name": "AcidParasite",
+    "uuid": "6dc09ce5-0732-4fe0-8dec-a1f01ea078f0",
+    "cloak": "mystic"
+  },
+  {
+    "name": "LauseLucy",
+    "uuid": "aac314d6-21c2-4054-9ede-8fcd436ef401",
+    "cloak": "cosmic"
   }
 ]
