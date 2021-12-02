@@ -142,7 +142,7 @@ soundCategory_hostile:0.15
 soundCategory_neutral:0.15
 soundCategory_player:1.0
 soundCategory_ambient:0.05
-soundCategory_voice:1.0
+soundCategory_voice:0.75
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
