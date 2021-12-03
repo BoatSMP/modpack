@@ -46,6 +46,15 @@ Iris + Sodium | [Iris' Website](https://irisshaders.net)
 Double Slabs | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
 Mr. Crayfish's Furniture Mod | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 Xaero's Minimap | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+Adapaxels | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/adapaxels)
+Croptopia | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)
+Appleskin | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+Skin Layers 3D | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+Not Enough Animations | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+Blockus | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blockus)
+Wandering Collector | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wandering-collector)
+Bountiful | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric)
+MoGlass | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mo-glass)
 
 ## Core mods
 Mod | URL
@@ -54,6 +63,7 @@ Fabric API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-ap
 Cloth API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 Fabric Language Kotlin | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 Architectury API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+kambrik | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kambrik)
 
 ## Not Included
 Mod | URL | Reason

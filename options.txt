@@ -20,7 +20,7 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.5
+fov:0.25
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
@@ -135,7 +135,7 @@ key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 soundCategory_master:0.15
 soundCategory_music:0.0
-soundCategory_record:0.50
+soundCategory_record:0.5
 soundCategory_weather:0.15
 soundCategory_block:0.15
 soundCategory_hostile:0.15
