@@ -90,11 +90,6 @@
     "cloak": "azure"
   },
   {
-    "name": "Harvey_Goody",
-    "uuid": "3cc33278-f220-496b-821e-96ecb3b095f4",
-    "cloak": "turtle"
-  },
-  {
     "name": "Bomb_JMA",
     "uuid": "80bd076a-16a1-4829-8eb9-3f44f985c7aa",
     "cloak": "pumpkin"
@@ -973,5 +968,10 @@
     "name": "M4XT4STIC",
     "uuid": "15420198-218b-4ad6-a8a7-4f9576f007a7",
     "cloak": "trans"
+  },
+  {
+    "name": "Harvey_Goody",
+    "uuid": "3cc33278-f220-496b-821e-96ecb3b095f4",
+    "cloak": "mint"
   }
 ]

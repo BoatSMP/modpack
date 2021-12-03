@@ -44,7 +44,6 @@ Feather Trampling | [Modrinth](https://modrinth.com/mod/feather-trampling)
 Ledger | [Modrinth](https://modrinth.com/mod/ledger)
 Iris + Sodium | [Iris' Website](https://irisshaders.net)
 Double Slabs | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
-Mr. Crayfish's Furniture Mod | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 Xaero's Minimap | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 Adapaxels | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/adapaxels)
 Croptopia | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)
@@ -55,6 +54,10 @@ Blockus | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blockus)
 Wandering Collector | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wandering-collector)
 Bountiful | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric)
 MoGlass | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mo-glass)
+Stormfest | [Modrinth](https://www.modrinth.com/mod/stormfest)
+Creeper Spores | [Modrinth](https://www.modrinth.com/mod/creeper-spores)
+bits and chisels | [Modrinth](https://www.modrinth.com/mod/bits-and-chisels)
+Indium | [GitHub](https://github.com/comp500/Indium)
 
 ## Core mods
 Mod | URL
