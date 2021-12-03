@@ -1,6 +1,5 @@
 # BoatSMP Modpack
 Recommended RAM allocation: 8GB
-Linux trash.
 ## Mods
 Mod | URL
 --- | ---
@@ -63,7 +62,7 @@ Fabric API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-ap
 Cloth API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 Fabric Language Kotlin | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 Architectury API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
-kambrik | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kambrik)
+Kambrik | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kambrik)
 
 ## Not Included
 Mod | URL | Reason
