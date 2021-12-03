@@ -1,6 +1,6 @@
 # BoatSMP Modpack
-Recommended RAM allocation: 8GB
-Linux trash.
+Recommended RAM allocation: 8GB<br>
+Recommended Operating system: Everything except MacOS. Even MS-Dos.
 ## Mods
 Mod | URL
 --- | ---
@@ -58,6 +58,7 @@ Stormfest | [Modrinth](https://www.modrinth.com/mod/stormfest)
 Creeper Spores | [Modrinth](https://www.modrinth.com/mod/creeper-spores)
 bits and chisels | [Modrinth](https://www.modrinth.com/mod/bits-and-chisels)
 Indium | [GitHub](https://github.com/comp500/Indium)
+HDSkins | [GitHub](https://github.com/MineLittlePony/HDSkins)
 
 ## Core mods
 Mod | URL
