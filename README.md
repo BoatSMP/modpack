@@ -59,6 +59,7 @@ Creeper Spores | [Modrinth](https://www.modrinth.com/mod/creeper-spores)
 bits and chisels | [Modrinth](https://www.modrinth.com/mod/bits-and-chisels)
 Indium | [GitHub](https://github.com/comp500/Indium)
 HDSkins | [GitHub](https://github.com/MineLittlePony/HDSkins)
+Roughly Enough Items (REI) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 
 ## Core mods
 Mod | URL
