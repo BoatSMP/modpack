@@ -65,6 +65,8 @@ HarvestScythes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/harve
 Lapis Reserve | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve)
 Illuminations | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/illuminations)
 Ruined Equipment | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ruined-equipment)
+Roughly Enough Items (REI) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+
 
 ## Core mods
 Mod | URL
