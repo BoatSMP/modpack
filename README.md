@@ -72,7 +72,7 @@ Styled Nicknames | [Modrinth](https://modrinth.com/mod/styled-nicknames)
 Enchantment Lore | [Modrinth](https://modrinth.com/mod/enchantment-lore) 
 Language Reload | [Modrinth](https://modrinth.com/mod/language-reload) 
 Camp Fires Cook Mobs | [Modrinth](https://modrinth.com/mod/camp-fires-cook-mobs) 
-CC: Tweaked | [Modrinth](https://modrinth.com/mod/cc-tweaked)
+Effective | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/effective)
 Adorn | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adorn)
 
 ## Core mods
