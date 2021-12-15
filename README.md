@@ -1,6 +1,5 @@
 # BoatSMP Modpack
-Recommended RAM allocation: 8GB<br>
-Recommended Operating system: Everything except MacOS. Even MS-Dos.
+Recommended RAM allocation: 8GB
 ## Mods
 Mod | URL
 --- | ---
@@ -8,18 +7,14 @@ Tom's Simple Storage Mod | [CurseForge](https://www.curseforge.com/minecraft/mc-
 Automated Crafting | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/automated-crafting)
 Logical Zoom | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 Krypton | [Modrinth](https://modrinth.com/mod/krypton)
-Sodium Extra | [Modrinth](https://modrinth.com/mod/sodium-extra)
 Falling Leaves | [Modrinth](https://modrinth.com/mod/fallingleaves)
 FallingTree | [Modrinth](https://modrinth.com/mod/fallingtree)
 Mod Menu | [Modrinth](https://modrinth.com/mod/modmenu)
 Dynamic FPS | [Modrinth](https://modrinth.com/mod/dynamic-fps)
-EasierVillagerTrading | [Modrinth](https://modrinth.com/mod/easiervillagertrading)
-FabricSkyboxes | [Modrinth](https://modrinth.com/mod/fabricskyboxes)
 ClickThrough | [Modrinth](https://modrinth.com/mod/clickthrough)
 PresenceFootsteps | [Modrinth](https://modrinth.com/mod/presence-footsteps)
 AntiGhost | [Modrinth](https://modrinth.com/mod/antighost)
 CIT Resewn | [Modrinth](https://modrinth.com/mod/cit-resewn)
-Bedrockify | [Modrinth](https://modrinth.com/mod/bedrockIfy)
 Consistency+ | [Modrinth](https://modrinth.com/mod/consistencyplus)
 InfiniteVillagerTrading | [Modrinth](https://modrinth.com/mod/infinitevillagertrading)
 EditSign | [Modrinth](https://modrinth.com/mod/editsign)
@@ -43,12 +38,10 @@ Splashes+ | [Modrinth](https://modrinth.com/mod/splashes+)
 Feather Trampling | [Modrinth](https://modrinth.com/mod/feather-trampling)
 Ledger | [Modrinth](https://modrinth.com/mod/ledger)
 Iris + Sodium | [Iris' Website](https://irisshaders.net)
-Double Slabs | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
 Xaero's Minimap | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 Adapaxels | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/adapaxels)
 Croptopia | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)
 Appleskin | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-Skin Layers 3D | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 Not Enough Animations | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 Blockus | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blockus)
 Wandering Collector | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wandering-collector)
@@ -56,19 +49,33 @@ Bountiful | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bountiful-
 MoGlass | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mo-glass)
 Stormfest | [Modrinth](https://www.modrinth.com/mod/stormfest)
 Creeper Spores | [Modrinth](https://www.modrinth.com/mod/creeper-spores)
-bits and chisels | [Modrinth](https://www.modrinth.com/mod/bits-and-chisels)
+Bits and Chisels | [Modrinth](https://www.modrinth.com/mod/bits-and-chisels)
 Indium | [GitHub](https://github.com/comp500/Indium)
 HDSkins | [GitHub](https://github.com/MineLittlePony/HDSkins)
-StrawDummy | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-dummy)
-Interactic | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/interactic)
-HarvestScythes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/harvest-scythes)
-Lapis Reserve | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve)
-Illuminations | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/illuminations)
-Ruined Equipment | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ruined-equipment)
+StrawDummy | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-dummy) 
+Interactic | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/interactic) 
+HarvestScythes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/harvest-scythes) 
+Lapis Reserve | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) 
+Illuminations | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/illuminations) 
+Ruined Equipment | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ruined-equipment) 
 Roughly Enough Items (REI) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
-
+Golden Berries | [Modrinth](https://modrinth.com/mod/golden_berries) 
+The Wild Mod | [Modrinth](https://modrinth.com/mod/the-wild-mod) 
+PictureSign | [Modrinth](https://modrinth.com/mod/picturesign) 
+ClearSkies | [Modrinth](https://modrinth.com/mod/clear-skies) 
+InventoryProfiles | [Modrinth](https://modrinth.com/mod/inventory-profiles-next) 
+Discerning Furnace | [Modrinth](https://modrinth.com/mod/discerning-furnace) 
+Rand'Ore | [Modrinth](https://modrinth.com/mod/randore) 
+FabricSit | [Modrinth](https://modrinth.com/mod/sit) 
+Modget | [Modrinth](https://modrinth.com/mod/modget) 
+Styled Nicknames | [Modrinth](https://modrinth.com/mod/styled-nicknames) 
+Enchantment Lore | [Modrinth](https://modrinth.com/mod/enchantment-lore) 
+Language Reload | [Modrinth](https://modrinth.com/mod/language-reload) 
+Camp Fires Cook Mobs | [Modrinth](https://modrinth.com/mod/camp-fires-cook-mobs) 
+CC: Tweaked | [Modrinth](https://modrinth.com/mod/cc-tweaked) 
 
 ## Core mods
+
 Mod | URL
 --- | ---
 Fabric API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
@@ -81,6 +88,7 @@ kambrik | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kambrik)
 Mod | URL | Reason
 --- | --- | ---
 Stockpile | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stockpile) | Outdated
-Immersive Portals | [GitHub](https://github.com/qouteall/ImmersivePortalsMod/releases) | Unstable
-CC: Restiched | [GitHub](https://github.com/cc-tweaked/cc-restitched) | Outdated
-Doggo Mod | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/doggo-mod) | Outdated / No MP Support
+Sodium Extra | [Modrinth](https://modrinth.com/mod/sodium-extra) | Outdated 
+EasierVillagerTrading | [Modrinth](https://modrinth.com/mod/easiervillagertrading) | Outdated 
+FabricSkyboxes | [Modrinth](https://modrinth.com/mod/fabricskyboxes) | Outdated 
+Immersive Portals | [Modrinth](https://modrinth.com/mod/immersiveportals) | Unstable 
