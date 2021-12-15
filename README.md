@@ -74,6 +74,7 @@ Language Reload | [Modrinth](https://modrinth.com/mod/language-reload)
 Camp Fires Cook Mobs | [Modrinth](https://modrinth.com/mod/camp-fires-cook-mobs) 
 Effective | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/effective)
 Adorn | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/adorn)
+Windowed Fullscreen | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/windowed-fullscreen)
 
 ## Core mods
 
