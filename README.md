@@ -59,6 +59,12 @@ Creeper Spores | [Modrinth](https://www.modrinth.com/mod/creeper-spores)
 bits and chisels | [Modrinth](https://www.modrinth.com/mod/bits-and-chisels)
 Indium | [GitHub](https://github.com/comp500/Indium)
 HDSkins | [GitHub](https://github.com/MineLittlePony/HDSkins)
+StrawDummy | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/straw-dummy)
+Interactic | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/interactic)
+HarvestScythes | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/harvest-scythes)
+Lapis Reserve | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve)
+Illuminations | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/illuminations)
+Ruined Equipment | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ruined-equipment)
 
 ## Core mods
 Mod | URL
@@ -75,3 +81,4 @@ Mod | URL | Reason
 Stockpile | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stockpile) | Outdated
 Immersive Portals | [GitHub](https://github.com/qouteall/ImmersivePortalsMod/releases) | Unstable
 CC: Restiched | [GitHub](https://github.com/cc-tweaked/cc-restitched) | Outdated
+Doggo Mod | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/doggo-mod) | Outdated / No MP Support
