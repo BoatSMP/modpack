@@ -1,6 +1,6 @@
 # BoatSMP Modpack
 
-Outdated for now
+README outdated for now
 
 Recommended RAM allocation: 8GB
 
